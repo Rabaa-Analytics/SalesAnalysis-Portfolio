@@ -18,7 +18,8 @@
 - Compare **Online vs Offline** performance for:  
   - Sales Amount  
   - Profit Amount  
-  - Number of Customers  
+  - Number of Customers
+  - Number of Resellers
   - Profit by Product Category  
 
 ### Level 2: Detailed Analysis
@@ -28,7 +29,8 @@
   - Analyze performance by **month**.  
   - Identify **Top Products in Demand**.  
   - Show **Top N Selling Products** (user can select N dynamically).  
-  - Explore **Sales and Profit details by region**.  
+  - Explore **Sales and Profit details by region**.
+  
 
 ---
 
@@ -37,4 +39,5 @@
 - Interactive filtering by year (2013) and Top N parameter selection.  
 - Easy comparison between channels and understanding overall business performance.  
 - Insights into product performance and regional profitability.
+- Display **Typical Monthly (Sales,Profit) around median calculated measure with a fluctuation of ±STD calculated measure**.
 # BI-Portfolio
