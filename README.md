@@ -1,7 +1,7 @@
 # Dashboard 1 – Sales Performance Overview(AdventureWorksDW 2013)
 
-![SalesPerformanceOverview](https://github.com/Rabaa-Analytics/SalesAnalysis-Portfolio/blob/main/OnlineVsReseller.PNG)]
-![SalesPerformanceOverview]((https://github.com/Rabaa-Analytics/SalesAnalysis-Portfolio/blob/main/TotalSales.PNG)]
+![SalesPerformanceOverview](https://github.com/Rabaa-Analytics/SalesAnalysis-Portfolio/blob/main/OnlineVsReseller.PNG)
+![SalesPerformanceOverview](https://github.com/Rabaa-Analytics/SalesAnalysis-Portfolio/blob/main/TotalSales.PNG)
 
 **Data Source:** AdventureWorksDW (Year = 2013)  
 **Target User:** Sales Manager  
